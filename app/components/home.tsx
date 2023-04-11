@@ -176,7 +176,7 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>Question answering assistant</div>
+          <div className={styles["sidebar-title"]}>Q&A assistant</div>
           <div className={styles["sidebar-sub-title"]}>
             Let&apos;s start with questions.
           </div>
