@@ -178,7 +178,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>Question answering assistant</div>
           <div className={styles["sidebar-sub-title"]}>
-            Let's start with questions.
+            Let&apos;s start with questions.
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
